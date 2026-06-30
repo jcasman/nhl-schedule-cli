@@ -1,0 +1,10 @@
+[project]
+name = "nhl-schedule-cli"
+version = "0.1.0"
+description = "building a basic app to show interesting games on the Ducks' schedule"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests>=2.34.2",
+    "rich>=15.0.0",
+]
