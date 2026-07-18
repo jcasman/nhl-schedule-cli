@@ -1,6 +1,6 @@
 import requests
 
-SEASON = "20252026"
+SEASON = "20262027"
 
 
 def fetch_team_schedule(team_code):
